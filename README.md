@@ -1,44 +1,25 @@
-<p align="center">
-    <img src="asset/logo.svg" height="150">
-</p>
+GitHub `README` Contributions
+====
+- [How to Use](#how-to-use)
+    - [Attention ⚠](#attention-)
+- [Use themes](#use-themes)
+- [Available Themes](#available-themes)
+- [Customization](#customization)
+    - [Common Options](#common-options)
+- [Deploy on your own Replit instance](#deploy-on-your-own-replit-instance)
+    - [Follow the steps](#follow-the-steps)
+- [Deploy on your own Vercel instance](#deploy-on-your-own-vercel-instance)
+    - [First Method](#first-method)
+    - [Second Method](#second-method)
+    - [Finally](#finally)
+- [Contributing](#contributing)
+- [Core Team 💻](#core-team-)
+- [Contributors ✨](#contributors-)
+- [Resources Used to build this project](#resources-used-to-build-this-project)
+- [Star History](#star-history)
+    - [Made with ❤ and TypeScript ](#made-with--and-typescript-)
 
-<h1 align="center">Github Readme Activity Graph</h1>
-
-<a href="https://jb.gg/OpenSourceSupport">
-<p align="center">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
-</p>
-</a>
-<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
-A dynamically generated activity graph to show your GitHub activities of last 31 days.
-
-### ⚠️ NOTICE: DEPLOYMENT MOVED ⚠️
-
-The deployment of this project is moved from `https://activity-graph.herokuapp.com` domain to `https://github-readme-activity-graph.cyclic.app`. In case `https://github-readme-activity-graph.cyclic.app` doesn't work try with `https://github-readme-activity-graph.vercel.app` for more details, refer [this](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/197#issuecomment-1560633754)
-
-Please refer to the updated link [here](#how-to-use)
-
-## Table of contents
-
--   [Table of contents](#table-of-contents)
--   [How to Use](#how-to-use)
-    -   [Attention ⚠](#attention-)
--   [Use themes](#use-themes)
--   [Available Themes](#available-themes)
--   [Customization](#customization)
-    -   [Common Options](#common-options)
--   [Deploy on your own Replit instance](#deploy-on-your-own-replit-instance)
-    -   [Follow the steps](#follow-the-steps)
--   [Deploy on your own Vercel instance](#deploy-on-your-own-vercel-instance)
-    -   [First Method](#first-method)
-    -   [Second Method](#second-method)
-    -   [Finally](#finally)
--   [Contributing](#contributing)
--   [Core Team 💻](#core-team-)
--   [Contributors ✨](#contributors-)
--   [Resources Used to build this project](#resources-used-to-build-this-project)
--   [Star History](#star-history)
-    -   [Made with ❤ and TypeScript ](#made-with--and-typescript-)
+***
 
 ## How to Use
 
