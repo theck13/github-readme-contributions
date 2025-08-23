@@ -36,7 +36,7 @@ describe('Fetching Tests', () => {
             (data: UserDetails) => {
                 expect(data.contributions).toEqual(expect.any(Array));
                 expect(data.contributions.length).toEqual(31);
-                expect(data.name).toEqual('Ashutosh Dwivedi');
+                expect(data.name).toEqual('Tyler Heck');
             }
         );
 

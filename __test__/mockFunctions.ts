@@ -15,7 +15,7 @@ export const mockFetchCorrect = jest.fn().mockReturnValue(
         data: {
             data: {
                 user: {
-                    name: 'Ashutosh Dwivedi',
+                    name: 'Tyler Heck',
                     contributionsCollection: {
                         contributionCalendar: {
                             totalContributions: 389,
