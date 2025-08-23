@@ -28,7 +28,7 @@ Just paste the following URL in your profile readme and you are good to go.
 **Pass your `username` in the URL**
 
 ```md
-[![Tyler Heck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theck13)](https://github.com/theck13/github-readme-activity-graph)
+[![Tyler Heck's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=theck13)](https://github.com/theck13/github-readme-activity-graph)
 ```
 
 ### [Attention ⚠](#deploy-on-your-own-replit-instance)
@@ -38,7 +38,7 @@ Just paste the following URL in your profile readme and you are good to go.
 _`username=theck13&theme=theme_name`_
 
 ```md
-[![Tyler Heck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theck13&theme=dracula)](https://github.com/theck13/github-readme-activity-graph)
+[![Tyler Heck's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=theck13&theme=dracula)](https://github.com/theck13/github-readme-activity-graph)
 ```
 
 [Manual Customization](#customization) is also available
@@ -94,13 +94,13 @@ Example:
 **`custom_title=This%20is%20a%20title`**
 
 ```md
-[![Tyler Heck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theck13&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/theck13/github-readme-activity-graph)
+[![Tyler Heck's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=theck13&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/theck13/github-readme-activity-graph)
 ```
 
 **Example:**
 
 ```md
-[![Tyler Heck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theck13&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/theck13/github-readme-activity-graph)
+[![Tyler Heck's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=theck13&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/theck13/github-readme-activity-graph)
 ```
 
 ## Deploy on your own Replit instance
@@ -131,7 +131,7 @@ Example:
 8. Now just add the following to your profile readme and you're good to go
 
 ```
-![Github Activity Graph](<url from step 5>/graph?username=<username>)
+![GitHub Contributions](<url from step 5>/graph?username=<username>)
 ```
 
 </details>
@@ -181,7 +181,7 @@ After the deployment is complete:
 Now just add the following to your profile readme and you're good to go.
 
 ```md
-![Github Activity Graph](<{your_own_domain_name}.vercel.app>/graph?username=<username>)
+![GitHub Contributions](<{your_own_domain_name}.vercel.app>/graph?username=<username>)
 ```
 
 </details>

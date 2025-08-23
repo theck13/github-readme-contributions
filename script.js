@@ -47,7 +47,7 @@ const removePlaceholder = () => {
 // Generate chart link with user data
 
 const generateLink = () => {
-    let link = `[![Tyler Heck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=${
+    let link = `[![Tyler Heck's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=${
         valueToCopy.username
     }&bg_color=${valueToCopy.bgColor.slice(1)}&color=${valueToCopy.color.slice(
         1
