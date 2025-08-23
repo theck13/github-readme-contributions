@@ -53,7 +53,7 @@ const generateLink = () => {
         1
     )}&line=${valueToCopy.line.slice(1)}&point=${valueToCopy.point.slice(
         1
-    )}&area=true&hide_border=true)](https://github.com/theck13/github-readme-activity-graph)`;
+    )}&area=true&hide_border=true)](https://github.com/theck13/github-readme-contributions)`;
     elements.textArea.value = link;
     elements.copyText.childNodes[3].style.backgroundColor = 'rgb(87, 132, 245)';
     return link;
