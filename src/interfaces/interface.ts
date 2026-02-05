@@ -34,6 +34,7 @@ export class ParsedQs {
     hide_title?: boolean;
     custom_title?: string;
     bg_color?: string;
+    border_color?: string;
     hide_border?: boolean;
     area_color?: string;
     color?: string;
@@ -74,7 +75,7 @@ export class Week {
 }
 
 export class ResponseOfApi {
-    data: {
+    data?: {
         user: {
             name: string;
             contributionsCollection: {
@@ -85,4 +86,5 @@ export class ResponseOfApi {
             };
         };
     };
+    errors?: Array<{ message: string; type: string }>;
 }
