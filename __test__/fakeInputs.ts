@@ -85,6 +85,17 @@ export let fakeQueryString = [
         hide_border: true,
         custom_title: 'some title',
     },
+    {
+        username: 'githubusername',
+        bg_color: '44475a',
+        border_color: 'ff0000',
+        color: 'f8f8f2',
+        line: 'ff79c6',
+        point: 'bd93f9',
+        area: true,
+        hide_title: false,
+        custom_title: undefined,
+    },
 ];
 
 export let fakeQueryStringRes = [
@@ -106,6 +117,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -125,6 +137,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -144,6 +157,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -163,6 +177,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -182,6 +197,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -201,6 +217,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -220,6 +237,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -239,6 +257,7 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
     },
     {
         username: 'githubusername',
@@ -259,6 +278,27 @@ export let fakeQueryStringRes = [
         days: 31,
         from: '',
         to: '',
+        grid: true,
+    },
+    {
+        username: 'githubusername',
+        radius: 0,
+        height: 420,
+        colors: {
+            areaColor: '9e4c98',
+            bgColor: '44475a',
+            borderColor: 'ff0000',
+            color: 'f8f8f2',
+            titleColor: 'f8f8f2',
+            lineColor: 'ff79c6',
+            pointColor: 'bd93f9',
+        },
+        area: true,
+        hide_title: false,
+        days: 31,
+        from: '',
+        to: '',
+        grid: true,
     },
 ];
 
