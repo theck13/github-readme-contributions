@@ -47,13 +47,13 @@ const removePlaceholder = () => {
 // Generate chart link with user data
 
 const generateLink = () => {
-    let link = `[![Tyler Heck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=${
+    let link = `[![Tyler Heck's github activity graph](https://github-readme-contributions-main.vercel.app/graph?username=${
         valueToCopy.username
     }&bg_color=${valueToCopy.bgColor.slice(1)}&color=${valueToCopy.color.slice(
         1
     )}&line=${valueToCopy.line.slice(1)}&point=${valueToCopy.point.slice(
         1
-    )}&area=true&hide_border=true)](https://github.com/theck13/github-readme-activity-graph)`;
+    )}&area=true&hide_border=true)](https://github.com/theck13/github-readme-contributions)`;
     elements.textArea.value = link;
     elements.copyText.childNodes[3].style.backgroundColor = 'rgb(87, 132, 245)';
     return link;
@@ -115,7 +115,7 @@ const getGraph = (username) => {
     };
 
     axios({
-        url: `https://github-readme-activity-graph.vercel.app/data?username=${username}`,
+        url: `https://github-readme-contributions-main.vercel.app/data?username=${username}`,
         method: 'GET'
     })
         .then((contributionData) => {
